@@ -1,4 +1,4 @@
-## About Me 👋
+## About Me 👤
 
 <!--
 **saakethramoju/saakethramoju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! I'm a senior aerospace engineering student at Georgia Tech who loves all things rockets and space. 
+
+### Projects ⚛️ 
+
+Here are some of the 

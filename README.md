@@ -18,4 +18,8 @@ Hello! I'm a senior aerospace engineering student at Georgia Tech who loves all 
 
 ### Projects ⚛️ 
 
-Here are some of the 
+Here are some of the projects that I've worked on.
+
+Currently working on:
+
+- [Bluetooth Light Switch Flicker](https://github.com/saakethramoju/Light-Switch).

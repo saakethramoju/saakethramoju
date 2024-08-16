@@ -18,7 +18,7 @@ Hello! I'm a senior aerospace engineering student at Georgia Tech who loves all 
 
 ### Projects ⚛️ 
 
-All project repo links include a detailed description of the design process and goals...
+**All project repo links include a detailed description of the design process and goals...**
 
 Here are some of the projects that I've worked on:
 

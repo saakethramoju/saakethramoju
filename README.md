@@ -12,9 +12,9 @@ Hello! I'm a senior aerospace engineering student at Georgia Tech who loves all 
 
 Here are some of the projects that I've worked on:
 
+- [Steel (Heatsink) Rocket Engine for Georgia Tech Yellow Jacket Space Program](https://github.com/saakethramoju/Ablative-Code)
 - Electric Bike
 - Orital Transfer Optimizer
-- [Steel (Heatsink) Rocket Engine for Georgia Tech Yellow Jacket Space Program](https://github.com/saakethramoju/Ablative-Code)
 
 Currently working on:
 

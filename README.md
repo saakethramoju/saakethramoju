@@ -3,7 +3,7 @@
 ![Image](https://github.com/user-attachments/assets/9f551840-8909-4d39-8064-04b372de3f5a)
 
 
-Hello! I'm a senior aerospace engineering student at Georgia Tech who loves all things rockets and space. 
+Hello! 🚀 I'm a senior aerospace engineering student at Georgia Tech who loves all things rockets and space. 
 
 
 ### Projects ⚛️ 

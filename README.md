@@ -30,3 +30,12 @@ Currently working on:
 
 - [Bluetooth Light Switch Flicker](https://github.com/saakethramoju/Light-Switch)
 - [Ablative Rocket Engine Thermal Analysis](https://github.com/saakethramoju/Ablative-Code)
+
+### Tools 🛠️
+
+**- Software:** MATLAB, Python, Java, Excel, ANSYS, SolidWorks, NASA CEA
+**- Hardware:** CNC Mill, Manual Lathe, Bandsaw, 3D Printing, Mig Welding, Tube Plumbing/Bending
+**- Circuits:** Soldering, KiCAD, Arduino, Raspberry Pi
+
+### Links 👽
+

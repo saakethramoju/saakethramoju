@@ -1,5 +1,5 @@
 ## About Me 👤
-<img width="1281" alt="Screenshot 2024-08-16 at 1 53 51 AM" src="https://github.com/user-attachments/assets/7421b82e-cb11-4ef3-9ab2-597b299f64ca">
+<img width="984" alt="Screenshot 2024-08-16 at 2 02 25 AM" src="https://github.com/user-attachments/assets/4e443ca3-ff61-4023-8a59-a6cb3fd46d29">
 
 Hello! I'm a senior aerospace engineering student at Georgia Tech who loves all things rockets and space. 
 

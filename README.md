@@ -18,8 +18,13 @@ Hello! I'm a senior aerospace engineering student at Georgia Tech who loves all 
 
 ### Projects ⚛️ 
 
-Here are some of the projects that I've worked on.
+Here are some of the projects that I've worked on:
+
+- Electric Bike
+- Orital Transfer Optimizer
+- [Steel (Heatsink) Rocket Engine for Georgia Tech Yellow Jacket Space Program](https://github.com/saakethramoju/Ablative-Code)
 
 Currently working on:
 
-- [Bluetooth Light Switch Flicker](https://github.com/saakethramoju/Light-Switch).
+- [Bluetooth Light Switch Flicker](https://github.com/saakethramoju/Light-Switch)
+- [Ablative Rocket Engine Thermal Analysis](https://github.com/saakethramoju/Ablative-Code)

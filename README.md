@@ -10,26 +10,30 @@ Hello! 🚀 I'm a senior aerospace engineering student at Georgia Tech who loves
 
 ### Projects ⚛️ 
 
-**All project repo links include a detailed description of the design process and goals...**
+**All project repo links will soon include a detailed description of the design process and goals...**
 
 Here are some of the projects that I've worked on:
 
-- [Steel (Heatsink) Rocket Engine for Georgia Tech Yellow Jacket Space Program](https://github.com/saakethramoju/Ablative-Code)
-- Electric Bike
-- Orital Transfer Optimizer
+- [Heatsink Rocket Engine Thermal Analysis for Georgia Tech Yellow Jacket Space Program](https://github.com/saakethramoju/Ablative-Code)
+- [Rocket Engine Contour Generator](https://github.com/saakethramoju/Contour-Generator)
+- [Rocket Engine Interactive Design Guide (Part 1)](https://github.com/saakethramoju/Engine-Design-Guide)
+
+
+
 
 Currently working on:
 
+- [Rocket Engine System Modular Fluid Network (based on ROCETs)](https://github.com/saakethramoju/ROCETS-DEV)
 - [Bluetooth Light Switch Flicker](https://github.com/saakethramoju/Light-Switch)
-- [Ablative Rocket Engine Thermal Analysis](https://github.com/saakethramoju/Ablative-Code)
 
+
+Other projects, which are not included here, can be found in repositories.
 
 
 ### Tools 🛠️
 
-- Software: MATLAB, Python, Java, Excel, ANSYS, SolidWorks, NASA CEA
-- Hardware: CNC Mill, Manual Lathe, Bandsaw, 3D Printing, Mig Welding, Tube Plumbing/Bending
-- Circuits: Soldering, KiCAD, Arduino, Raspberry Pi
+- Software: MATLAB, Python, Java, Excel, ANSYS, SolidWorks, KiCAD
+- Hardware: CNC Mill, Manual Lathe, 3D Printing, Tube Plumbing/Bending, Soldering, KiCAD, Arduino, Raspberry Pi
 
 
 

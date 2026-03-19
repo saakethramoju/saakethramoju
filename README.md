@@ -12,6 +12,7 @@ Hello! 🚀 I'm a senior aerospace engineering student at Georgia Tech who loves
 
 Here are some of the projects that I've worked on:
 
+- [Rocket Engine Throttling Main Valve Active Control](https://github.com/saakethramoju/Throttle-Valve-Closed-Loop-Control)
 - [Rocket Engine Contour Generator](https://github.com/saakethramoju/Contour-Generator)
 - [Rocket Engine Interactive Design Guide (Part 1)](https://github.com/saakethramoju/Engine-Design-Guide)
 - [Fluid Network Analysis Interactive Lecture](https://github.com/saakethramoju/Fluid-Network-Analysis-Lecture)

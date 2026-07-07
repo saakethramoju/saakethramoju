@@ -12,29 +12,17 @@ Hello! 🚀 I'm a senior aerospace engineering student at Georgia Tech who loves
 Here are some of the projects that I've worked on:
 
 - [FullFlow](https://github.com/saakethramoju/FullFlow):
-  - fff
-- [Thermophysical Property Wrapper for Real Fluids, Ideal Gases, Liquid Rocket Propellants, and Isotropic Engineering Materials](https://github.com/saakethramoju/ThermoProp)
+  - A generalized network-flow analysis python package based on ROCETs and GFSSP.
+- [ThermoProp](https://github.com/saakethramoju/ThermoProp)
+  - Thermophysical property wrapper and combustion equilibrium tool for real fluids, ideal gases, liquid rocket propellants, and isotropic engineering materials.
+- [FullPlot](https://github.com/saakethramoju/FullPlot)
+  - HDF5 plotting, trace-processing, and map-generation package for engineering simulation and test data.
 - [Rocket Engine Throttling Main Valve Active Control](https://github.com/saakethramoju/Throttle-Valve-Closed-Loop-Control)
+  - PID control script for YJSP's rocket engine test stand.
 - [Rocket Engine Contour Generator](https://github.com/saakethramoju/Contour-Generator)
+  - Interactive [website](https://saakethramoju.github.io/Contour-Generator/) to generate contours for liquid rocket engines.
 - [Rocket Engine Interactive Design Guide (Part 1)](https://github.com/saakethramoju/Engine-Design-Guide)
-- [Fluid Network Analysis Interactive Lecture](https://github.com/saakethramoju/Fluid-Network-Analysis-Lecture)
-- Heatsink Rocket Engine Thermal Analysis (*private repository*)
-
-
-
-Currently working on:
-
-- [Bluetooth Light Switch Flicker](https://github.com/saakethramoju/Light-Switch)
-
-
-Other projects, which are not included here, can be found in my repositories.
-
-
-### Tools 🛠️
-
-- Software: MATLAB, Python, Java, Excel, ANSYS, SolidWorks, KiCAD
-- Hardware: CNC Mill, Manual Lathe, 3D Printing, Tube Plumbing/Bending, Soldering, KiCAD, Arduino, Raspberry Pi
-
+  - Jupyter guide discussing the fundamentals of designing and modeling a rocket engine's contours and efficiencies.
 
 
 ### Links 👽

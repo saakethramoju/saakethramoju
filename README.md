@@ -8,11 +8,11 @@ Hello! 🚀 I'm a senior aerospace engineering student at Georgia Tech who loves
 
 ### Projects ⚛️ 
 
-**All project repo links will soon include a detailed description of the design process and goals...**
 
 Here are some of the projects that I've worked on:
 
-- [Steady State and Transient Fluid Simulation Tool (based on ROCETs)](https://github.com/saakethramoju/FullFlow)
+- [FullFlow](https://github.com/saakethramoju/FullFlow):
+  - fff
 - [Thermophysical Property Wrapper for Real Fluids, Ideal Gases, Liquid Rocket Propellants, and Isotropic Engineering Materials](https://github.com/saakethramoju/ThermoProp)
 - [Rocket Engine Throttling Main Valve Active Control](https://github.com/saakethramoju/Throttle-Valve-Closed-Loop-Control)
 - [Rocket Engine Contour Generator](https://github.com/saakethramoju/Contour-Generator)
